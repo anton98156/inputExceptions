@@ -1,7 +1,7 @@
 package inputPersonalDataExceptions;
 
 public class Intro {
-    public void printIntro() {
-        
+    public static void printIntro() {
+        System.out.println("Test");
     }
 }
